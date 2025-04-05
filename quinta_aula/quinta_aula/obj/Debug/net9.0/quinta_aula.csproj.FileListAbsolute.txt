@@ -1,0 +1,14 @@
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\bin\Debug\net9.0\quinta_aula.exe
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\bin\Debug\net9.0\quinta_aula.deps.json
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\bin\Debug\net9.0\quinta_aula.runtimeconfig.json
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\bin\Debug\net9.0\quinta_aula.dll
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\bin\Debug\net9.0\quinta_aula.pdb
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.AssemblyInfoInputs.cache
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.AssemblyInfo.cs
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.csproj.CoreCompileInputs.cache
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.dll
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\refint\quinta_aula.dll
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.pdb
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.genruntimeconfig.cache
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\ref\quinta_aula.dll

@@ -1,0 +1,14 @@
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\segunda_aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\segunda_aula.AssemblyInfoInputs.cache
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\segunda_aula.AssemblyInfo.cs
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\segunda_aula.csproj.CoreCompileInputs.cache
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\bin\Debug\net9.0\segunda_aula.exe
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\bin\Debug\net9.0\segunda_aula.deps.json
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\bin\Debug\net9.0\segunda_aula.runtimeconfig.json
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\bin\Debug\net9.0\segunda_aula.dll
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\bin\Debug\net9.0\segunda_aula.pdb
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\segunda_aula.dll
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\refint\segunda_aula.dll
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\segunda_aula.pdb
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\segunda_aula.genruntimeconfig.cache
+C:\Users\malic\jumpstart\segunda_aula\segunda_aula\obj\Debug\net9.0\ref\segunda_aula.dll

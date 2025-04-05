@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "segunda_aula/1.0.0": {
+        "runtime": {
+          "segunda_aula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "segunda_aula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

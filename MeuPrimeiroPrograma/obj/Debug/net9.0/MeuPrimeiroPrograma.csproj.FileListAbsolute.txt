@@ -1,0 +1,14 @@
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\bin\Debug\net9.0\MeuPrimeiroPrograma.exe
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\bin\Debug\net9.0\MeuPrimeiroPrograma.deps.json
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\bin\Debug\net9.0\MeuPrimeiroPrograma.runtimeconfig.json
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\bin\Debug\net9.0\MeuPrimeiroPrograma.dll
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\bin\Debug\net9.0\MeuPrimeiroPrograma.pdb
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\MeuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\MeuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\MeuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\MeuPrimeiroPrograma.dll
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\refint\MeuPrimeiroPrograma.dll
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\MeuPrimeiroPrograma.pdb
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\MeuPrimeiroPrograma.genruntimeconfig.cache
+C:\Users\malic\jumpstart\MeuPrimeiroPrograma\obj\Debug\net9.0\ref\MeuPrimeiroPrograma.dll
