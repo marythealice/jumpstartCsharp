@@ -110,8 +110,8 @@ void Depositar()
 {
   Console.WriteLine("Digite o valor a ser depositado");
   decimal deposito = decimal.Parse(Console.ReadLine());
-  saldo[ultima_posicao] += deposito;
-  Console.WriteLine($"Seu saldo é de {saldo[ultima_posicao]}");
+  saldo[ultima_posicao - 1] += deposito;
+  Console.WriteLine($"Seu saldo é de {saldo[ultima_posicao - 1]}");
   Console.Write("Caso queira voltar ao menu, digite 1. ");
   Console.WriteLine("Mas, se deseja sair, digite 2");
   string operacao = Console.ReadLine();
@@ -132,9 +132,9 @@ void Transferir()
   Console.Write("Digite valor que deseja transferir. Caso seja menor que o seu saldo atual, ");
   Console.WriteLine("a operação será invalidada");
   decimal valor_transferencia = decimal.Parse(Console.ReadLine());
-  if (valor_transferencia > saldo[ultima_posicao])
+  if (valor_transferencia > saldo[ultima_posicao - 1])
   {
-    while (valor_transferencia > saldo[ultima_posicao])
+    while (valor_transferencia > saldo[ultima_posicao - 1])
     {
       Console.WriteLine("Valor inválido. Digite um novo valor");
       valor_transferencia = decimal.Parse(Console.ReadLine());
@@ -146,9 +146,11 @@ void Transferir()
   {
     if (cpf[i] == cpf_checagem)
     {
-      saldo[ultima_posicao] -= valor_transferencia;
+      saldo[ultima_posicao - 1] -= valor_transferencia;
       saldo[i] += valor_transferencia;
-      Console.WriteLine($"{saldo[i]}");
+      Console.WriteLine($"Seu saldo atual é de {saldo[ultima_posicao - 1]}");
+
+      /* Console.WriteLine($"{saldo[i]}"); */
     }
   }
 

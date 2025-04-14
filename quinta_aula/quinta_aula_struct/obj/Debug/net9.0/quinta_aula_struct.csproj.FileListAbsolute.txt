@@ -1,0 +1,15 @@
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\bin\Debug\net9.0\quinta_aula_struct.exe
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\bin\Debug\net9.0\quinta_aula_struct.deps.json
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\bin\Debug\net9.0\quinta_aula_struct.runtimeconfig.json
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\bin\Debug\net9.0\quinta_aula_struct.dll
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\bin\Debug\net9.0\quinta_aula_struct.pdb
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.AssemblyInfoInputs.cache
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.AssemblyInfo.cs
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.csproj.CoreCompileInputs.cache
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.sourcelink.json
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.dll
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\refint\quinta_aula_struct.dll
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.pdb
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\quinta_aula_struct.genruntimeconfig.cache
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula_struct\obj\Debug\net9.0\ref\quinta_aula_struct.dll

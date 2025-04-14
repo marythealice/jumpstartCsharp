@@ -12,3 +12,4 @@ C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\refint\quinta_
 C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.pdb
 C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.genruntimeconfig.cache
 C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\ref\quinta_aula.dll
+C:\Users\malic\jumpstart\quinta_aula\quinta_aula\obj\Debug\net9.0\quinta_aula.sourcelink.json
